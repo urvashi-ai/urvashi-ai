@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Mindful_Mental_Wellness_App.pdf](https://github.com/user-attachments/files/20654597/Mindful_Mental_Wellness_App.pdf)
+[TrendCart_Q1_2025_SalesData.csv](https://github.com/user-attachments/files/20654601/TrendCart_Q1_2025_SalesData.csv)
+[TrendCart_Q1_2025_Sales_Report.pdf](https://github.com/user-attachments/files/20654603/TrendCart_Q1_2025_Sales_Report.pdf)
+
+[Certificate.pdf](https://github.com/user-attachments/files/20654614/Certificate.pdf)
