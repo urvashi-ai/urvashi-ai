@@ -1,0 +1,52 @@
+Order_ID,Customer_ID,Order_Date,Product_Category,Product_Name,Price,Quantity,Payment_Method,City,Customer_Age,Gender,Returned
+1001,C1006,2025-01-27,Home Decor,Wall Art,538,1,UPI,Mumbai,32,Male,Yes
+1002,C1010,2025-03-07,Home Decor,Vase,3744,2,Credit Card,Pune,36,Female,No
+1003,C1020,2025-03-30,Clothing,Sweater,3653,3,UPI,Kolkata,18,Male,No
+1004,C1014,2025-02-14,Beauty,Lipstick,848,3,Wallet,Chennai,59,Female,No
+1005,C1012,2025-03-07,Home Decor,Photo Frame,2224,2,Cash on Delivery,Jaipur,38,Male,No
+1006,C1005,2025-03-18,Clothing,Sweater,1638,1,Cash on Delivery,Delhi,38,Female,No
+1007,C1012,2025-02-02,Clothing,Jeans,4464,1,Cash on Delivery,Pune,21,Female,No
+1008,C1003,2025-02-18,Beauty,Eyeliner,2842,3,Cash on Delivery,Mumbai,58,Male,No
+1009,C1015,2025-02-21,Beauty,Lipstick,2730,3,Wallet,Mumbai,47,Female,No
+1010,C1013,2025-01-17,Electronics,Bluetooth Speaker,1463,2,Wallet,Mumbai,60,Female,No
+1011,C1011,2025-01-07,Clothing,Sweater,4783,3,Credit Card,Mumbai,51,Female,No
+1012,C1017,2025-01-23,Beauty,Sunscreen,4281,3,Wallet,Kolkata,56,Male,No
+1013,C1016,2025-01-21,Clothing,Hoodie,2007,1,Credit Card,Delhi,28,Female,No
+1014,C1013,2025-02-05,Clothing,Sweater,1277,2,Wallet,Mumbai,56,Female,Yes
+1015,C1008,2025-02-19,Clothing,Jeans,3195,2,Wallet,Hyderabad,27,Female,No
+1016,C1007,2025-01-18,Clothing,Sweater,915,3,Credit Card,Jaipur,28,Male,No
+1017,C1004,2025-03-27,Electronics,Bluetooth Speaker,583,1,UPI,Hyderabad,40,Female,No
+1018,C1018,2025-02-21,Electronics,Smart Watch,1856,2,Cash on Delivery,Kolkata,60,Female,No
+1019,C1002,2025-03-27,Clothing,Hoodie,3713,1,Wallet,Pune,42,Male,No
+1020,C1017,2025-01-15,Clothing,T-shirt,1947,2,Cash on Delivery,Jaipur,22,Male,No
+1021,C1003,2025-02-18,Electronics,Earbuds,3833,2,Credit Card,Pune,23,Male,No
+1022,C1003,2025-03-12,Clothing,Hoodie,2960,3,Credit Card,Chennai,24,Female,No
+1023,C1005,2025-03-09,Electronics,Power Bank,1378,3,UPI,Chennai,50,Male,No
+1024,C1009,2025-01-11,Beauty,Sunscreen,4488,1,UPI,Pune,53,Male,No
+1025,C1012,2025-01-15,Clothing,Jacket,3977,1,Wallet,Hyderabad,48,Female,No
+1026,C1005,2025-01-10,Home Decor,Photo Frame,3383,2,Wallet,Delhi,56,Female,No
+1027,C1016,2025-01-21,Clothing,Jeans,2118,2,Cash on Delivery,Hyderabad,44,Male,No
+1028,C1002,2025-02-20,Electronics,Bluetooth Speaker,2212,3,UPI,Pune,46,Female,No
+1029,C1016,2025-03-21,Clothing,Hoodie,2757,3,Wallet,Mumbai,50,Female,No
+1030,C1013,2025-02-07,Clothing,Jeans,4152,2,Cash on Delivery,Kolkata,47,Male,No
+1031,C1013,2025-03-01,Beauty,Face Serum,3165,3,Credit Card,Delhi,60,Male,No
+1032,C1018,2025-01-27,Electronics,Earbuds,4574,1,Credit Card,Delhi,38,Female,No
+1033,C1019,2025-01-29,Electronics,Smart Watch,1240,1,UPI,Jaipur,45,Female,No
+1034,C1010,2025-01-12,Clothing,T-shirt,2127,1,Credit Card,Pune,41,Male,No
+1035,C1011,2025-03-06,Electronics,Smart Watch,1116,3,UPI,Chennai,42,Female,No
+1036,C1013,2025-02-07,Electronics,Bluetooth Speaker,3448,1,Cash on Delivery,Pune,30,Male,No
+1037,C1008,2025-01-19,Clothing,Hoodie,2022,2,Credit Card,Hyderabad,58,Female,Yes
+1038,C1008,2025-01-25,Clothing,Hoodie,3078,2,Wallet,Chennai,57,Male,No
+1039,C1005,2025-01-31,Beauty,Sunscreen,1557,1,Cash on Delivery,Bangalore,20,Female,Yes
+1040,C1017,2025-01-01,Electronics,Earbuds,1117,3,Cash on Delivery,Jaipur,27,Female,No
+1041,C1019,2025-02-22,Clothing,Jacket,3707,2,Wallet,Hyderabad,18,Male,No
+1042,C1012,2025-03-27,Beauty,Eyeliner,643,1,Wallet,Chennai,36,Male,No
+1043,C1007,2025-01-28,Home Decor,Table Lamp,1663,1,UPI,Mumbai,44,Male,No
+1044,C1010,2025-01-26,Home Decor,Table Lamp,4886,2,Wallet,Bangalore,44,Female,No
+1045,C1013,2025-02-28,Home Decor,Wall Art,4164,1,UPI,Kolkata,59,Male,No
+1046,C1008,2025-01-18,Electronics,Bluetooth Speaker,4767,3,Credit Card,Jaipur,59,Female,No
+1047,C1019,2025-03-04,Beauty,Lipstick,4140,1,Cash on Delivery,Delhi,31,Male,No
+1048,C1005,2025-01-08,Beauty,Eyeliner,3957,1,Credit Card,Kolkata,38,Female,No
+1049,C1010,2025-02-27,Electronics,Smart Watch,2241,3,UPI,Kolkata,59,Male,Yes
+1050,C1002,2025-02-17,Clothing,Sweater,662,2,Wallet,Bangalore,55,Female,No
+1051,C1002,2025-02-05,Electronics,Tablet,661,3,Cash on Delivery,Kolkata,37,Female,No
