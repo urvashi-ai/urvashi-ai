@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [TrendCart_Q1_2025_Sales_Report.pdf](https://github.com/user-attachments/files/20654603/TrendCart_Q1_2025_Sales_Report.pdf)
 
 [Certificate.pdf](https://github.com/user-attachments/files/20654614/Certificate.pdf)
+[Fitness_App_Overview.pdf](https://github.com/user-attachments/files/20738710/Fitness_App_Overview.pdf)
+[Data-Driven-Decision-Making-in-E-Commerce-A-Beginners-Guide.pdf](https://github.com/user-attachments/files/20738711/Data-Driven-Decision-Making-in-E-Commerce-A-Beginners-Guide.pdf)
